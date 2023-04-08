@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactThirdCheckpoint/static/css/main.e6c13ad2.css",
+    "main.js": "/reactThirdCheckpoint/static/js/main.07bca904.js",
+    "static/js/787.74528c60.chunk.js": "/reactThirdCheckpoint/static/js/787.74528c60.chunk.js",
+    "static/media/dhia.jpg": "/reactThirdCheckpoint/static/media/dhia.0a084b0ff0e44ef5500d.jpg",
+    "index.html": "/reactThirdCheckpoint/index.html",
+    "main.e6c13ad2.css.map": "/reactThirdCheckpoint/static/css/main.e6c13ad2.css.map",
+    "main.07bca904.js.map": "/reactThirdCheckpoint/static/js/main.07bca904.js.map",
+    "787.74528c60.chunk.js.map": "/reactThirdCheckpoint/static/js/787.74528c60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.07bca904.js"
+  ]
+}
